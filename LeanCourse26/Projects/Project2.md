@@ -4,7 +4,7 @@
 
 Please fill out the following. Fill in the project topic once you have decided.
 ```
-First & last name student 1:
+First & last name student 1: Konrad Westfeld
 First & last name student 2 (optional):
 Project topic:
 ```
